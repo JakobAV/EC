@@ -1,3 +1,9 @@
+*.*
+!*.c
+!*.cmd
+!.gitignore
+x64/**/*.*
+
 # Prerequisites
 *.d
 
